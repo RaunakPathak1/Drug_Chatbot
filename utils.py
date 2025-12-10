@@ -1,0 +1,32 @@
+from dotenv import load_dotenv
+import os
+from openai import OpenAI
+import ast
+
+load_dotenv(override=True)
+
+openrouter_api_key = os.getenv('OPENROUTER_API_KEY')
+openrouter_url = "https://openrouter.ai/api/v1"
+openrouter = OpenAI(base_url=openrouter_url, api_key=openrouter_api_key)
+
+MODEL = 'google/gemini-2.5-flash-lite'
+
+def call_llm(model, system_message, user_message):
+    messages = [
+        {"role": "system", "content": system_message},
+        {"role": "user", "content": user_message},
+    ]
+    response = openrouter.chat.completions.create(model=model, messages=messages)
+    return response.choices[0].message.content
+
+
+def call_llm_with_history(model, system_message, history, user_message):
+    messages = [{"role": "system", "content": system_message}] + history + [
+        {"role": "user", "content": user_message}
+    ]
+    response = openrouter.chat.completions.create(model=model, messages=messages)
+    return response.choices[0].message.content
+
+
+def safe_eval(text):
+    return ast.literal_eval(text)
