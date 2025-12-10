@@ -11,20 +11,20 @@ openrouter = OpenAI(base_url=openrouter_url, api_key=openrouter_api_key)
 
 MODEL = 'google/gemini-2.5-flash-lite'
 
-def call_llm(model, system_message, user_message):
+def call_llm(MODEL, system_message, user_message):
     messages = [
         {"role": "system", "content": system_message},
         {"role": "user", "content": user_message},
     ]
-    response = openrouter.chat.completions.create(model=model, messages=messages)
+    response = openrouter.chat.completions.create(model=MODEL, messages=messages)
     return response.choices[0].message.content
 
 
-def call_llm_with_history(model, system_message, history, user_message):
+def call_llm_with_history(MODEL, system_message, history, user_message):
     messages = [{"role": "system", "content": system_message}] + history + [
         {"role": "user", "content": user_message}
     ]
-    response = openrouter.chat.completions.create(model=model, messages=messages)
+    response = openrouter.chat.completions.create(model=MODEL, messages=messages)
     return response.choices[0].message.content
 
 
