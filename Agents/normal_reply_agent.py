@@ -1,6 +1,4 @@
-from utils import call_llm,call_llm_with_history,safe_eval
-
-MODEL = 'google/gemini-2.5-flash-lite'
+from utils import call_llm,call_llm_with_history,safe_eval,MODEL
 
 
 def reply_normal_agent(message,history):

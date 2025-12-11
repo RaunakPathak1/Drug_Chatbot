@@ -1,6 +1,5 @@
-from utils import call_llm,call_llm_with_history,safe_eval
+from utils import call_llm,call_llm_with_history,safe_eval,MODEL
 
-MODEL = 'google/gemini-2.5-flash-lite'
 
 def cat_agent(message):
     system_message = '''You are a helpful assistant that catergorizes the given message into two catergories.

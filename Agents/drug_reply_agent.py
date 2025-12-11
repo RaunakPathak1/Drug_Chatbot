@@ -1,8 +1,7 @@
-from utils import call_llm,call_llm_with_history,safe_eval
+from utils import call_llm,call_llm_with_history,safe_eval,MODEL
 from Agents.paracetamol_agent import paracetamol_agent
 from Agents.insulin_agent import insulin_agent
 
-MODEL = 'google/gemini-2.5-flash-lite'
 
 
 def drug_reply(message):

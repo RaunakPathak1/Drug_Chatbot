@@ -9,7 +9,7 @@ openrouter_api_key = os.getenv('OPENROUTER_API_KEY')
 openrouter_url = "https://openrouter.ai/api/v1"
 openrouter = OpenAI(base_url=openrouter_url, api_key=openrouter_api_key)
 
-MODEL = 'google/gemini-2.5-flash-lite'
+MODEL = 'openai/gpt-4o-2024-11-20'
 
 def call_llm(MODEL, system_message, user_message):
     messages = [
