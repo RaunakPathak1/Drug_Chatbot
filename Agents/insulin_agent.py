@@ -1,7 +1,5 @@
-from utils import call_llm,call_llm_with_history,safe_eval
-from rag_pipeline import rag_answer_insulin
-
-MODEL = 'google/gemini-2.5-flash-lite'
+from utils import call_llm,call_llm_with_history,safe_eval,MODEL
+from rag_pipeline.rag_pipeline import rag_answer_insulin
 
 
 def insulin_agent(message):

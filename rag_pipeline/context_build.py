@@ -4,16 +4,15 @@ import os
 import glob
 import chromadb
 from chromadb.config import Settings
-from utils import call_llm,call_llm_with_history,safe_eval
+from utils import call_llm,MODEL
 
 
-MODEL = 'google/gemini-2.5-flash-lite'
 
 MODEL_NAME = "all-MiniLM-L6-v2"
 DB_PATH = r"C:\Users\rauna\projects\llm_engineering\My Projects\Drug Chatbot\ChromaDB\chroma_db"
 COLLECTION_NAME = "document_embeddings"
 
-model = SentenceTransformer('all-MiniLM-L6-v2')
+model = SentenceTransformer(MODEL_NAME)
 
 chroma_client = chromadb.PersistentClient(path=DB_PATH)
 collection = chroma_client.get_collection(COLLECTION_NAME)
@@ -62,56 +61,3 @@ def build_context(documents) -> str:
 
     context = "\n\n---\n\n".join(context_blocks)
     return context
-
-
-
-def rag_answer_paracetamol(message):
-    system_message = '''You extract paracetamol related messages from the user message and retrun only 'paracetamol' related questions.
-                        Only return the extracted message without any explaniations.
-                        Igone any other medicine name that is mentioned.'''
-    paracetamol_message = call_llm(MODEL,system_message,message)    
- 
-    results = retrieve_documents_paracetamol(paracetamol_message)
-    context = build_context(results)
-
-    system_message = f"""You are a helpful drug information assistant.
-
-                        Use ONLY the following context to answer the question. 
-                        If the answer is not in the context, say you don't know.
-
-                        Context:
-                        {context}
-
-                        Question: {paracetamol_message}
-
-                        Answer:"""
-
-    answer = call_llm(MODEL, system_message, paracetamol_message)
-    return answer
-
-
-def rag_answer_insulin(message):
-    system_message = '''You extract insulin related messages from the user message and retrun only 'insulin' related questions.
-                        Only return the extracted message without any explaniations.
-                        Igone any other medicine name that is mentioned.'''
-    insulin_message = call_llm(MODEL,system_message,message)    
- 
-    results = retrieve_documents_insulin(insulin_message)
-    context = build_context(results)
-
-    system_message = f"""You are a helpful drug information assistant.
-
-                        Use ONLY the following context to answer the question. 
-                        If the answer is not in the context, say you don't know.
-
-                        Context:
-                        {context}
-
-                        Question: {insulin_message}
-
-                        Answer:"""
-    answer = call_llm(MODEL, system_message, insulin_message)
-    return answer
-
-
-
