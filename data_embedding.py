@@ -1,37 +1,30 @@
-from sentence_transformers import SentenceTransformer
+##IMPORTS##
+
 import numpy as np
 import os
-import glob
-import chromadb
-from chromadb.config import Settings
+from utils import embedding_model,chroma_client,file_paths,COLLECTION_NAME,DB_PATH
 
-model = SentenceTransformer('all-MiniLM-L6-v2')
-
-FOLDER_PATH = r"C:\Users\rauna\projects\llm_engineering\My Projects\Drug Chatbot\Synthetic_files"  # Uncomment and set your path
-file_pattern = os.path.join(FOLDER_PATH, "*.txt")
-COLLECTION_NAME = "document_embeddings"  # ChromaDB collection name
-DB_PATH = r"C:\Users\rauna\projects\llm_engineering\My Projects\Drug Chatbot\ChromaDB\chroma_db"
-
-chroma_client = chromadb.PersistentClient(path=DB_PATH)
-
-file_paths = glob.glob(file_pattern)
 
 texts = []
 filenames = []
 
+##READING FILES FROM FILE STORAGE PATH
 for file_path in file_paths:
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
             content = f.read().strip()
-            if content:  # Only add non-empty files
+            if content:  
                 texts.append(content)
                 filenames.append(os.path.basename(file_path))
                 print(f"Loaded: {os.path.basename(file_path)}")
     except Exception as e:
         print(f"Error reading {file_path}: {e}")
 
-embeddings = model.encode(texts)
 
+## TURNING TEXT INTO VECTORS
+embeddings = embedding_model.encode(texts)
+
+# Logging vector creation
 print(f"\n{'='*60}")
 print(f"Model: all-MiniLM-L6-v2")
 print(f"Embedding dimension: {embeddings.shape[1]}")
@@ -39,15 +32,20 @@ print(f"Number of files embedded: {embeddings.shape[0]}")
 print(f"{'='*60}\n")
 
 
+# Fetch existing collection if present, otherwise create a new one.
+# Attach some metadata describing what this collection stores.
 collection = chroma_client.get_or_create_collection(
     name=COLLECTION_NAME,
     metadata={"description": "Text file embeddings using all-MiniLM-L6-v2"}
 )
 
+# Creating uqique id and metadata for chromaDB to be added along with vectors and text
 print("Adding embeddings to ChromaDB...")
 ids = [f"doc_{i}" for i in range(len(filenames))]
 metadatas = [{"filename": fn, "file_path": fp} for fn, fp in zip(filenames, file_paths)]
 
+
+# Adding vectors, texts, metadata and ids in chromaDB collection
 collection.add(
     embeddings=embeddings.tolist(),
     documents=texts,
@@ -56,6 +54,7 @@ collection.add(
 )
 
 
+# Logging
 print("\n" + "="*60)
 print("ChromaDB Collection Info:")
 print("="*60)
