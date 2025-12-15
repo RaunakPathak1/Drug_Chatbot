@@ -1,10 +1,8 @@
 import os
-from utils_embedding import BASE_PATH,subfolders,DB_PATH,gpt_model,sentence_length,overlap,chroma_client
-from utils_embedding import chroma_client,sentense_collection,embedding_model,SENTENCE_COLLECTION_NAME
+from utils_embedding import BASE_PATH,subfolders,sentence_length,overlap
+from utils_embedding import sentense_collection,embedding_model,SENTENCE_COLLECTION_NAME
 import glob
-import tiktoken
-from pathlib import Path
-import chromadb
+
 
 
 folder_paths = [ str(BASE_PATH/sf) for sf in subfolders]
@@ -59,7 +57,6 @@ ids = [f'chunk_{i}' for i in range(len(chunk_by_lines_with_overlap(file_paths,se
 
 
 sentence_embeddings = embedding_model.encode(chunks)
-
 
 
 sentense_collection.add(

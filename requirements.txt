@@ -1,3 +1,12 @@
 python-dotenv
 openai
+chromadb
+sentence-transformers
+torch
+tiktoken
+ipython
+numpy
+plotly
+nbformat
+notebook
 gradio

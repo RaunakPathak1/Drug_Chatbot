@@ -1,12 +1,17 @@
-from sentence_transformers import SentenceTransformer
-import numpy as np
-import os
-import glob
-import chromadb
-from chromadb.config import Settings
+#List of witnesses (imports)
 from utils import call_llm,MODEL
-from rag_pipeline.context_build import retrieve_documents_paracetamol,retrieve_documents_insulin,build_context
 
+# # # # #Story if we bring full documents into RAG pipeline
+# from rag_pipeline.full_doc_rag.full_doc_context_build import full_retrieve_documents_paracetamol,full_retrieve_documents_insulin,full_build_context
+# retrieve_documents_paracetamol = full_retrieve_documents_paracetamol
+# build_context = full_build_context
+# retrieve_documents_insulin = full_retrieve_documents_insulin
+
+# # # # #Story if we bring sentenses into RAG pipeline
+from rag_pipeline.sentence_rag.sentense_context_build import sen_retrieve_documents_paracetamol,sen_retrieve_documents_insulin,sen_build_context
+retrieve_documents_paracetamol = sen_retrieve_documents_paracetamol
+build_context = sen_build_context
+retrieve_documents_insulin = sen_retrieve_documents_insulin
 
 
 

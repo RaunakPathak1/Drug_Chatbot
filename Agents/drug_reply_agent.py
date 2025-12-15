@@ -6,8 +6,10 @@ from Agents.insulin_agent import insulin_agent
 
 def drug_reply(message):
     system_message = '''You are a helpful assistant that picks out all the drug names in a query and gives a list of the drug names present in the query.
-                        Return only python list
-                        Fix the typos as well if you find any'''
+                        Return only python list.
+                        Fix the typos as well if you find any.
+                        For Example : User message : "Tell me about paracetmol and inslin"
+                        Assistant reply : "['paracetamol', 'insulin']" '''
     drugs_raw = call_llm(MODEL, system_message, message)
     drugs = safe_eval(drugs_raw)
     print(drugs)
