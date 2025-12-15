@@ -1,0 +1,11 @@
+Topic: Career history and previous positions
+
+### Career History and Previous Positions
+
+Insulin Lanadelray's journey in data engineering is a testament to her passion for leveraging technology to drive real-world impact in healthcare. Graduating with a First-Class Honours degree in Computer Science from Imperial College London in 2018, she dove straight into the industry with a role as a **Junior Data Analyst at NHS Digital** (2018–2020). There, at just 22, she honed her skills in SQL, Python, and ETL processes, building dashboards that optimized patient flow during the early COVID-19 response—analyzing over 500,000 records daily to inform resource allocation. "It was chaotic but exhilarating," Insulin recalls, "turning raw data into lifesaving decisions fueled my drive."
+
+Eager for deeper technical challenges, she advanced to **Data Engineer at BenevolentAI** (2020–2022), a London-based AI drug discovery firm. Here, she architected scalable data pipelines using Apache Airflow and AWS, processing petabytes of genomic and clinical trial data. Her standout project? A real-time anomaly detection system that accelerated drug candidate screening by 40%, earning her a spot in the company's Innovator of the Year program. Balancing intense sprints with weekend cycling rides along the Thames, Insulin thrived in this fast-paced environment.
+
+In 2022, she joined **King's College Hospital NHS Foundation Trust** as **Senior Data Engineer**, where she currently leads a team of five. Specializing in healthcare analytics, she's spearheaded the migration of legacy systems to Snowflake and Databricks, enabling predictive models for readmission risks that reduced costs by 25%. Her work bridges data silos across cardiology and oncology, embodying her belief that "data isn't just numbers—it's the pulse of patient care."
+
+Throughout her career, Insulin has volunteered with DataKind UK, mentoring on pro-bono healthcare projects, and holds certifications in Google Cloud Professional Data Engineer and AWS Certified Big Data. At 27, her trajectory from analyst to senior leader showcases relentless curiosity, blending technical prowess with a human-centered approach—perfectly suited to London's vibrant health-tech scene.

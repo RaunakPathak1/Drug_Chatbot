@@ -1,0 +1,23 @@
+Topic: Educational background including degrees, institutions, certifications
+
+### Paracetamol Chad's Educational Journey: From Code Curious to LLM Luminary
+
+Paracetamol Chad's path to becoming a leading LLM Researcher in New York's buzzing tech scene is a masterclass in blending curiosity, grit, and cutting-edge academia. Hailing from the Empire State, Paracetamol turned his early fascination with puzzles and patterns—sparked by tinkering with his family's old Commodore 64—into a powerhouse education that equips him to push the boundaries of artificial intelligence today.
+
+**Bachelor of Science in Computer Science (B.S.), New York University (NYU), 2012–2016**  
+Paracetamol kicked off his higher ed adventure at NYU's Courant Institute of Mathematical Sciences, one of the world's top hubs for computing innovation. Graduating *summa cum laude* with a 3.95 GPA, he dove deep into algorithms, data structures, and introductory machine learning. His senior thesis, "Optimizing Neural Networks for Real-Time Image Recognition," earned him the Dean's Award for Excellence in Research and foreshadowed his LLM expertise. Extracurricularly, he co-founded NYU's AI Club, organizing hackathons that drew 200+ students and even caught the eye of Google recruiters.
+
+**Master of Science in Artificial Intelligence (M.S.), Columbia University, 2016–2018**  
+Not one to rest on laurels, Paracetamol stayed local for grad school at Columbia's Fu Foundation School of Engineering and Applied Science. His M.S. focused on natural language processing (NLP) and deep learning, where he specialized in transformer models—the very architecture powering modern LLMs like GPT. Under the mentorship of Dr. Elena Vasquez, a pioneer in ethical AI, he published his first paper in *NeurIPS 2018*: "Enhancing Contextual Embeddings for Multilingual Dialogue Systems." He graduated with distinction, completing a capstone project that prototyped an early LLM for legal document analysis, now cited in over 50 academic works.
+
+**Ph.D. Candidate in Machine Learning, Cornell Tech (Expected 2024)**  
+Currently, at 30, Paracetamol is wrapping up his Ph.D. at Cornell Tech's Roosevelt Island campus—a sleek, interdisciplinary haven bridging NYC's tech ecosystem with Ivy League rigor. His dissertation, "Scalable Fine-Tuning Techniques for Domain-Specific Large Language Models," tackles real-world challenges like bias mitigation in healthcare LLMs. He's already co-authored 12 peer-reviewed papers, including one in *ICML 2023*, and collaborates with industry giants like OpenAI and Meta. His work has secured $250K in NSF grants, proving his chops in both theory and application.
+
+**Key Certifications and Continuous Learning**  
+Paracetamol's commitment to staying ahead of the curve shines through his certifications:
+- **Google Professional Machine Learning Engineer (2020)**: Mastered deploying scalable ML models on Google Cloud, directly applicable to his LLM research pipelines.
+- **AWS Certified Machine Learning – Specialty (2021)**: Expertise in building, training, and tuning models at enterprise scale.
+- **TensorFlow Developer Certificate (2019)**: Honed skills in Keras and TensorFlow for efficient neural network development.
+- **Stanford Online: CS224N – Natural Language Processing with Deep Learning (2022)**: Audited for the latest in LLMs, complementing his formal degrees.
+
+This robust foundation not only fuels Paracetamol's day job probing the frontiers of large language models but also infuses his hobbies—like capturing NYC hikes through photography or experimenting with AI-assisted cooking recipes—with a tech-savvy twist. For aspiring LLM researchers, Paracetamol's story underscores a vital truth: the best education blends elite institutions, hands-on projects, and relentless upskilling in a field evolving

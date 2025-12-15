@@ -1,0 +1,21 @@
+Topic: Professional network such as mentors, stakeholders, or teams and Tools, software, and technologies regularly used
+
+### Navigating Data Pipelines and People: My World as a Healthcare Data Engineer
+
+Hey there! I'm Insulin Lanadelray, a 27-year-old Data Engineer based in bustling London, where I blend my passion for cycling through Hyde Park with building robust data infrastructures in the healthcare sector. At the heart of my professional life is a dynamic network of mentors, stakeholders, and teams that keeps me sharp—and the tools we wield together that turn complex healthcare data into lifesaving insights. Let me take you behind the scenes.
+
+#### The Power Players: My Professional Network
+No data pipeline thrives in isolation, and mine is fueled by an incredible circle of collaborators. My **mentor**, Dr. Elena Vasquez, a veteran Chief Data Officer at a leading NHS trust, has been my North Star since I joined her apprenticeship program two years ago. Over virtual coffees (and the occasional post-ride smoothie), she drills into me the nuances of ethical data handling in healthcare—reminding me that "data isn't just numbers; it's lives." Her guidance helped me pivot from raw ETL scripts to scalable architectures compliant with GDPR and HIPAA.
+
+Then there are my **stakeholders**: a mix of frontline clinicians, researchers, and compliance wizards. Picture weekly stand-ups with Dr. Raj Patel, a cardiologist whose real-world queries on patient outcome predictions push me to refine models, and Sarah Kline from legal, who ensures our pipelines are fortress-secure against breaches. These interactions aren't just meetings—they're brainstorming sessions where a doctor's "What if we predict readmissions faster?" sparks a new dashboard prototype.
+
+My **core team** is the glue: a 12-person squad at HealthData Innovations, blending data engineers like me, ML engineers, BI analysts, and domain experts. We operate in agile sprints, with tools like Slack and Miro for ideation, and Notion for tracking our "data debt" backlog. Remote hybrid vibes mean we're as likely to collaborate on a Figma wireframe during a London rainstorm as we are in our Shoreditch office. This network? It's my secret sauce—turning solo coding marathons into collaborative triumphs.
+
+#### The Tech Arsenal: Tools That Make It All Click
+Seamlessly woven into these relationships are the **tools, software, and technologies** we rely on daily. Python is my Swiss Army knife—pandas and NumPy for wrangling messy EHR datasets, paired with PySpark for distributed processing on massive patient cohorts. SQL? Non-negotiable for querying PostgreSQL and Snowflake warehouses, especially when stakeholders need ad-hoc reports on drug trial efficacy.
+
+For orchestration, Apache Airflow reigns supreme in our DAGs, scheduling ETL jobs that ingest FHIR-formatted data from hospitals via Kafka streams. We deploy on AWS (EC2, EMR, S3 for storage), with Terraform for IaC to keep things reproducible—Dr. Vasquez insists on it for audits. dbt models our transformations, ensuring lineage tracking that compliance teams love, while Tableau and Power BI dashboards bring it all to life for clinicians. Lately, we've dipped into Databricks for Unity Catalog, accelerating ML workflows with my team's data scientists.
+
+What ties it together? GitHub for version control (PR reviews with teammates are gold), and Docker/Kubernetes for containerized deploys that scale effortlessly. These aren't just tools—they're extensions of our network. A Slack bot pings stakeholders on pipeline failures, and shared Jupyter notebooks spark mentor-led experiments. In healthcare, where data freshness can mean early cancer detection, this stack ensures we're reliable, fast, and innovative.
+
+Whether I'm debugging a Spark job at dawn before a cycle commute or traveling to Berlin for a data conference (networking bonus!), this blend of people and tech keeps me energized. If you're in healthcare data

@@ -1,6 +1,6 @@
 import os
 from utils_embedding import BASE_PATH,subfolders,sentence_length,overlap
-from utils_embedding import sentense_collection,embedding_model,SENTENCE_COLLECTION_NAME
+from utils_embedding import sentense_collection,embedding_model,NEW_SENTENCE_COLLECTION_NAME
 import glob
 
 
@@ -71,7 +71,7 @@ sentense_collection.add(
 print(f"\n{'='*60}")
 print("ChromaDB Collection Info:")
 print(f"Model: all-MiniLM-L6-v2")
-print(f"Collection name: {SENTENCE_COLLECTION_NAME}")
+print(f"Collection name: {NEW_SENTENCE_COLLECTION_NAME}")
 print(f"Embedding dimension: {sentence_embeddings.shape[1]}")
 print(f"Number of files embedded: {sentence_embeddings.shape[0]}")
 print(f"{'='*60}\n")

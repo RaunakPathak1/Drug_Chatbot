@@ -1,0 +1,21 @@
+Topic: Work style and personality traits and Digital footprint such as portfolio links, personal website, or summary bio
+
+### Insulin Lanadelray: Data Engineer Crafting Insights in Healthcare
+
+**Meet Insulin: The Relentless Optimizer Behind Healthcare's Data Revolution**
+
+At 27, Insulin Lanadelray is a London-based Data Engineer whose work style is as dynamic and efficient as her weekend cycling routes through Hyde Park. With a sharp eye for patterns—honed by devouring sci-fi novels and plotting global travels—she approaches every project like a high-stakes adventure: meticulously planned, iteratively refined, and always pushing for that perfect velocity. In the fast-paced healthcare industry, where data pipelines must handle sensitive patient records with unerring precision, Insulin thrives on **agile methodologies**. She's the type who prototypes ETL workflows overnight, collaborates seamlessly in cross-functional teams via Slack and Jira, and iterates based on real-time feedback—much like tweaking her bike gears mid-ride to conquer a steep hill.
+
+Her personality shines through in equal parts **analytical precision and creative flair**. Introverted yet disarmingly approachable, Insulin is the colleague who'll debug a stubborn Spark job at 2 AM with a witty meme in the group chat, then pivot to brainstorming ML models for predictive diagnostics over virtual coffee. Her hobbies fuel this balance: cycling builds her endurance for marathon coding sessions, reading (from Neal Stephenson to medical journals) sparks innovative ideas like graph databases for disease outbreak tracking, and traveling—recently a solo trek through the Alps—inspires her to design scalable systems that "journey" data from raw chaos to actionable insights. She's resilient, empathetic (key in healthcare ethics), and perpetually curious, often volunteering her skills for open-source health data tools.
+
+**Digital Footprint: Where to Dive Deeper into Insulin's World**
+
+Insulin's online presence is a polished reflection of her meticulous style—clean, intuitive, and packed with value:
+
+- **Personal Website**: [insulinlanadelray.com](https://insulinlanadelray.com) – A sleek portfolio showcasing healthcare projects like a real-time FHIR data ingestion pipeline (reducing query times by 40%) and a Tableau dashboard for NHS resource allocation. Includes a blog on "Data Engineering for Good," blending tech tutorials with travel-inspired metaphors.
+  
+- **GitHub**: [github.com/insulinlr](https://github.com/insulinlr) – 20+ repos, including `healthflow-etl` (5k stars), a modular framework for HIPAA-compliant data lakes, and contributions to Apache Airflow. Fork it, star it, or collaborate—she's always open to PRs.
+
+- **LinkedIn**: [linkedin.com/in/insulinlanadelray](https://linkedin.com/in/insulinlanadelray) – 2k+ connections, endorsements in PySpark and AWS, and posts on "Cycling Through Data Debt." Her summary bio? "Turning healthcare's data deluge into life-saving clarity, one optimized query at a time. London cyclist, global explorer, eternal tinkerer."
+
+Whether you're a recruiter scouting talent or a fellow dev seeking collab inspiration, Insulin's footprint isn't just a resume—it's a roadmap to her innovative mind. Connect, and let's ride the data wave together. 🚀

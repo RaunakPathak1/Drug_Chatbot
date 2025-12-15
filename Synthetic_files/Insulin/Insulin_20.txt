@@ -1,0 +1,31 @@
+Topic: Digital footprint such as portfolio links, personal website, or summary bio
+
+# Insulin Lanadelray's Digital Footprint
+
+Hey there! I'm **Insulin Lanadelray**, a 27-year-old Data Engineer based in the vibrant heart of London. With a passion for turning raw healthcare data into life-saving insights, I blend technical wizardry with a human touch. Picture this: cycling through Hyde Park at dawn to clear my head before diving into ETL pipelines, or curling up with a sci-fi novel that sparks ideas for my next big project. Traveling has taken me from the cobblestone streets of Edinburgh to the sun-soaked beaches of Bali, broadening my perspective on global health challenges. When I'm not knee-deep in Python scripts or Apache Spark clusters, you'll find me advocating for ethical AI in healthcare.
+
+## Quick Bio Snapshot
+- **Profession**: Data Engineer | Healthcare Specialist
+- **Location**: London, UK
+- **Superpowers**: Building scalable data pipelines, machine learning for predictive analytics, and visualizing health trends that matter.
+- **Fun Fact**: I once optimized a hospital's patient flow data system during a hackathon—saving hours of admin time daily!
+
+## Explore My Work
+Dive into my digital world where code meets compassion:
+
+- **Personal Website**: [insulinlanadelray.com](https://insulinlanadelray.com)  
+  My digital home base! Check out interactive project demos, my blog on "Data Ethics in NHS Digital Transformation," and a travel-inspired photo gallery that fuels my creative data viz ideas.
+
+- **Portfolio & Projects**: [GitHub - insulinlr](https://github.com/insulinlr)  
+  Feast your eyes on real-world gems like:  
+  - **HealthFlow ETL Pipeline**: A Spark-based tool for processing anonymized NHS patient data—boosted query speeds by 40%! [Repo Link](https://github.com/insulinlr/healthflow-etl)  
+  - **Predictive Readmission Model**: ML model using TensorFlow to forecast hospital readmissions, deployed on AWS. [Live Demo](https://insulinlanadelray.com/projects/readmission-model)  
+  - **COVID-19 Tracker Dashboard**: Tableau viz pulling live UK health data. [View Here](https://public.tableau.com/app/profile/insulin.lanadelray/viz/COVIDTrackerLondon/Overview)
+
+- **LinkedIn**: [linkedin.com/in/insulinlanadelray](https://linkedin.com/in/insulinlanadelray)  
+  Connect for collabs! 5K+ connections, endorsements in Big Data & Healthcare IT, and posts on cycling routes for remote workers.
+
+- **Medium Blog**: [medium.com/@insulinlr](https://medium.com/@insulinlr)  
+  Articles like "Why Data Engineers are the Unsung Heroes of Healthcare" (10K reads) and hobby tie-ins: "How Cycling Data Tracks My Wellness Metrics."
+
+Whether you're a fellow data nerd, healthcare innovator, or just curious, my footprint is all about impact, innovation, and a bit of adventure. Let's chat—drop me a line! 🚴‍♀️📊✈️

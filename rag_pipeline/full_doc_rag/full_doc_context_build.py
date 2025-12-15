@@ -1,9 +1,9 @@
 # List of witnesses (imports)
 from utils import call_llm,MODEL
-from vector_embedding_methods.utils_embedding import embedding_model,DB_PATH,FULL_FILE_COLLECTION_NAME,chroma_client
+from vector_embedding_methods.utils_embedding import embedding_model,DB_PATH,NEW_DATA_FF_COLLECTION_NAME,chroma_client
 
 
-full_doc_collection = chroma_client.get_collection('full_document_embeddings')
+full_doc_collection = chroma_client.get_collection(NEW_DATA_FF_COLLECTION_NAME)
 
 
 

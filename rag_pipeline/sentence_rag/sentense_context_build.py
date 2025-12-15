@@ -1,9 +1,9 @@
 # List of witnesses (imports)
 from utils import call_llm,MODEL
-from vector_embedding_methods.utils_embedding import embedding_model,chroma_client,SENTENCE_COLLECTION_NAME
+from vector_embedding_methods.utils_embedding import embedding_model,chroma_client,NEW_SENTENCE_COLLECTION_NAME
 
 
-sentense_doc_collection = chroma_client.get_collection(SENTENCE_COLLECTION_NAME)
+sentense_doc_collection = chroma_client.get_collection(NEW_SENTENCE_COLLECTION_NAME)
 
 
 

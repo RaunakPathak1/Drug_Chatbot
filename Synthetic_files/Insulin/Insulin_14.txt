@@ -1,0 +1,9 @@
+Topic: Personal motivations and core values
+
+### Personal Motivations and Core Values
+
+As Insulin Lanadelray, a 27-year-old Data Engineer thriving in London's bustling healthcare scene, my drive stems from a deep-seated belief that data isn't just numbers—it's the lifeline that transforms lives. Growing up watching my grandmother battle chronic illness without the insights modern analytics could provide, I was hooked on the power of structured data to predict, prevent, and personalize care. That's my core motivation: to bridge the gap between raw health data and real-world impact, engineering systems that empower doctors and patients alike. In the fast-paced world of NHS-linked projects here in London, I geek out over optimizing pipelines that cut diagnosis times or flag at-risk populations, knowing each line of code could save a life.
+
+At my heart, integrity is non-negotiable— I live by transparent, ethical data practices, always prioritizing privacy in an era of AI hype. Empathy fuels me too; healthcare isn't abstract metrics, it's people, so I champion inclusive datasets that represent diverse communities, much like the multicultural mosaic of London I call home. Innovation keeps me cycling through London's green paths at dawn—those grueling rides mirror the persistence needed to debug a stubborn ETL process, building resilience and clarity. Reading voraciously (from sci-fi epics to data ethics tomes) sharpens my curiosity, while my travels—from Scottish highlands to Thai markets—remind me that growth happens outside the screen. Balance is sacred: I value sustainability over burnout, weaving hobbies into my routine to stay sharp and human.
+
+Ultimately, my values—integrity, empathy, innovation, and balance—aren't buzzwords; they're the pedal strokes propelling me forward. Whether scaling a Spark cluster or plotting my next adventure, I'm motivated by creating a healthier, fairer world, one dataset at a time. What's your driving force?

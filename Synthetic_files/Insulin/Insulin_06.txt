@@ -1,0 +1,36 @@
+Topic: Technical, functional, and soft skills
+
+### Insulin Lanadelray's Skill Arsenal: Powering Healthcare Data in London
+
+Hey there! I'm Insulin Lanadelray, a 27-year-old Data Engineer based in the vibrant heart of London. By day, I wrangle massive datasets in the healthcare industry, turning raw data into lifesaving insights. Picture this: while cycling along the Thames at dawn, my mind races with SQL queries and pipeline optimizations. It's that blend of tech wizardry and real-world impact that fuels me—much like devouring a gripping novel on a train to my next travel adventure. Let's dive into my **technical**, **functional**, and **soft skills**, shall we? I'll break it down with real examples from my work, so you see how they drive results.
+
+#### **Technical Skills: The Tools That Build the Backbone**
+As a Data Engineer, I'm all about the nitty-gritty tech stack that makes data flow seamlessly. In healthcare, where precision is non-negotiable, these skills ensure compliance and scalability.
+
+- **Programming & Querying Mastery**: Python is my go-to (with libraries like Pandas, NumPy, and PySpark for big data crunching), paired with expert-level SQL for complex joins and optimizations. I once slashed query times by 70% for a NHS-linked project by rewriting inefficient subqueries into window functions—talk about a data adrenaline rush!
+  
+- **ETL & Orchestration**: Proficient in Apache Airflow and dbt for building robust pipelines, plus Spark for distributed processing. I've orchestrated ETL jobs handling terabytes of patient records, ensuring zero downtime during peak hours.
+
+- **Cloud & Data Platforms**: Hands-on with AWS (S3, Glue, Redshift) and GCP (BigQuery, Dataflow). In healthcare, I integrate FHIR standards for secure data exchange, making systems interoperable across hospitals.
+
+- **Bonus Tech**: Docker/Kubernetes for containerization, Git for version control, and CI/CD with Jenkins. I'm always experimenting with Snowflake for warehousing to handle London's growing health data boom.
+
+These aren't just buzzwords—they're the engines powering scalable, secure data infrastructures.
+
+#### **Functional Skills: Delivering End-to-End Data Magic**
+Beyond code, I excel at the practical workflows that turn chaos into clarity. Functional skills are where strategy meets execution in my daily grind.
+
+- **Data Pipeline Design & Modeling**: I architect scalable pipelines from ingestion to analytics, using dimensional modeling (Kimball methodology) for star schemas. For a recent telehealth app, I built a real-time pipeline that reduced data latency from hours to minutes.
+
+- **Data Quality & Governance**: Implementing checks with Great Expectations and ensuring GDPR/HIPAA compliance. I've led audits that caught 99% of anomalies in electronic health records (EHRs), preventing costly errors.
+
+- **Analytics & Visualization**: Bridging engineering to insights with tools like Tableau and Power BI. I create dashboards tracking patient outcomes, helping clinicians spot trends faster—like correlating cycling habits (my hobby!) with recovery rates in rehab data.
+
+- **Integration Expertise**: Merging disparate sources (APIs, IoT wearables) via Kafka streams, vital for healthcare's fragmented ecosystems.
+
+These skills make me the glue between raw data and actionable business value.
+
+#### **Soft Skills: The Human Edge in a Data-Driven World**
+Tech is cool, but it's the soft skills that turn projects into collaborations—and keep me sane amid deadlines. Shaped by reading philosophy on long-haul flights and team rides through Hyde Park, these are my secret weapons.
+
+- **Problem-Solving & Adaptability**: I thrive in ambiguity, like debugging a pipeline crash at 2 AM during a system migration. Agile methodologies (Scrum/Kanban) are second nature; I pivot fast, as proven

@@ -1,0 +1,25 @@
+Topic: Digital footprint such as portfolio links, personal website, or summary bio
+
+### Paracetamol Chad's Digital Footprint: Trails of Innovation in the LLM Wilderness
+
+Hey there, trailblazers and tech enthusiasts! I'm Paracetamol Chad, a 30-year-old LLM Researcher based in the bustling heart of New York City. By day, I dive deep into the neural networks of large language models, pushing the boundaries of AI ethics, efficiency, and real-world applications in the tech industry. But my digital footprint? It's like a well-marked hiking trail—clear, inviting, and full of scenic viewpoints from my professional peaks to my personal passions for photography, cooking, and epic hikes through the Catskills.
+
+#### Quick Bio Snapshot
+> *Paracetamol Chad is an LLM Researcher with a knack for turning complex AI puzzles into practical solutions. From optimizing transformer models for sustainable computing to experimenting with multimodal LLMs that blend text and images (inspired by his photography hobby), he's all about making AI more human—and humane. When not coding in NYC's vibrant tech scene, you'll find him capturing golden-hour shots on rugged trails or whipping up fusion dishes like kimchi ramen with a tech twist. Let's connect and geek out!*
+
+#### Explore My Digital Trails
+- **Personal Website**: [paracetamolchad.com](https://paracetamolchad.com)  
+  Your one-stop hub for everything me. Dive into my blog posts on "LLMs in the Wild" (think AI for outdoor adventure apps), a gallery of hike-inspired photography, and recipes coded as interactive Jupyter notebooks. Freshly redesigned with a minimalist, mountain-motif theme—perfect for late-night scrolls.
+
+- **Portfolio & Research Showcase**: [paracetamolchad.github.io/portfolio](https://paracetamolchad.github.io/portfolio)  
+  Feast your eyes on 10+ open-source projects, including my flagship repo *EchoTrail-LLM*, a lightweight model for generating personalized hiking itineraries using satellite imagery and user prefs. Check out publications from NeurIPS workshops, conference talks (video embeds included), and a live demo of my cooking assistant bot that suggests meals based on your fridge pic.
+
+- **LinkedIn Profile**: [linkedin.com/in/paracetamolchad](https://linkedin.com/in/paracetamolchad)  
+  5K+ connections in AI/tech. Endorsements for Python, PyTorch, and ethical AI. Recent post? "How LLMs Can Predict Your Next Great Hike (And Why Privacy Matters)."
+
+- **Other Footprints**:
+  - **GitHub**: [github.com/paracetamolchad](https://github.com/paracetamolchad) – 2.5K stars across 50+ repos. Fork my photography enhancer LLM today!
+  - **Twitter/X**: [@ParacetamolChad](https://twitter.com/ParacetamolChad) – Daily threads on AI news, trail pics, and #CookingWithLLMs.
+  - **Medium**: [medium.com/@paracetamolchad](https://medium.com/@paracetamolchad) – Long-form reads like "From Pixels to Prompts: Photography's Role in Multimodal AI."
+
+My digital presence is designed to be approachable yet packed with value—no black-box AI here. Whether you're a fellow researcher eyeing collaborations, a hiker needing trail tips, or a foodie curious about AI recipes, follow my footprints. Drop a message; let's brew some ideas over virtual coffee (or real ramen if you're in NYC)! 🚀🥾📸
