@@ -1,0 +1,33 @@
+Topic: Short-term and long-term professional goals
+
+### My Professional Roadmap: Short-Term Wins and Long-Term Visions as a Data Engineer in Healthcare
+
+Hey there! I'm Insulin Lanadelray, a 27-year-old Data Engineer based in the vibrant tech-healthcare scene of London. By day, I wrangle massive datasets to power better patient outcomes in the healthcare industry—think streamlining electronic health records (EHRs) and ensuring GDPR-compliant data flows that save lives. Outside work, you'll find me pedaling through Hyde Park on my road bike, devouring sci-fi novels, or plotting my next trip to Berlin for a tech conference. These passions keep me sharp and balanced, fueling my career ambitions.
+
+As someone who's bootstrapped her way from junior pipelines to leading ETL optimizations, I've got a crystal-clear roadmap. Here's the breakdown of my **short-term** (next 1-2 years) and **long-term** (5+ years) professional goals—designed to blend technical mastery, impact, and that elusive work-life harmony.
+
+#### Short-Term Goals: Building Momentum and Skills (2024-2025)
+I'm all about quick wins that stack up like efficient data layers. These are actionable, measurable steps to level up fast:
+
+1. **Earn a Google Cloud Professional Data Engineer Certification by Q2 2025**  
+   London's healthcare giants like the NHS Digital are migrating to the cloud at warp speed. I've already aced my Databricks Spark fundamentals—next up is mastering BigQuery and Vertex AI. This will let me architect scalable, real-time analytics pipelines for predictive diagnostics, reducing query times by 40% on my current projects.
+
+2. **Lead a Cross-Functional Healthcare Data Project**  
+   Pitching to optimize patient readmission models using Python, Apache Airflow, and dbt. Goal: Cut deployment cycles from weeks to days, collaborating with clinicians and devs. Success metric? A 20% efficiency boost, presented at a local meetup like DataEng London. (Pro tip: Cycling commutes clear my head for those late-night debugging sessions.)
+
+3. **Expand My Network and Portfolio**  
+   Attend 3-4 conferences (PyData UK, HIMSS Europe) and contribute to one open-source repo on healthcare data privacy tools. Traveling to Amsterdam or Paris for these? Bonus—ties right into my wanderlust hobby. Aim: 500+ LinkedIn connections in EU healthcare tech.
+
+These goals are my "sprint" phase—focused, achievable, and directly tied to promotions. I'm tracking progress weekly in Notion, because data-driven personal growth is my jam!
+
+#### Long-Term Goals: Leaving a Legacy in Healthcare Data (2026+)
+Zoom out, and it's about transformation. I want to be the engineer who bridges data silos to revolutionize care—think AI-driven personalized medicine without the privacy nightmares.
+
+1. **Rise to Senior/Lead Data Engineering Role, Then Head of Data Platforms**  
+   By 30, spearheading a team at a firm like BenevolentAI or GSK in London. Vision: Build end-to-end data platforms integrating wearables (hello, cycling metrics for health insights!) with genomic data for proactive treatments.
+
+2. **Pioneer AI-Infused Healthcare Analytics**  
+   Specialize in federated learning to enable secure, multi-hospital collaborations under GDPR. Long-shot dream: Publish a whitepaper or tool that slashes drug trial timelines by 30%, impacting millions. Reading voraciously on ML ethics keeps me ahead—current fave: "Weapons of Math Destruction."
+
+3. **Mentor the Next Gen and Give Back**  
+   Launch a "Data for Good" workshop series for underrepresented women in STEM, inspired by my own journey. Ultimately, maybe co-found a startup blending travel-tech with telehealth

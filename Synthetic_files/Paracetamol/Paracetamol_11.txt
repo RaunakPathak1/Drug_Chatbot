@@ -1,0 +1,39 @@
+Topic: Tools, software, and technologies regularly used
+
+# My Go-To Tools, Software, and Tech Stack as an LLM Researcher
+
+Hey everyone, Paracetamol Chad here—your friendly 30-year-old LLM researcher hustling in the heart of New York City's tech scene. When I'm not chasing sunsets on Hudson River hikes, snapping epic street photography, or whipping up a killer Thai curry in my tiny kitchen, you'll find me deep in the trenches of large language model experimentation. As someone knee-deep in the Technology industry, my workflow is a symphony of cutting-edge tools that keep my research efficient, scalable, and downright fun. Let me break down the **tools, software, and technologies I use daily**—think of this as my digital Swiss Army knife. I'll explain what they do, why I love them, and a pro tip for each.
+
+## 1. **Python Ecosystem: The Backbone of Everything**
+   - **Core Libraries**: NumPy, Pandas, Scikit-learn
+     - *Why?* Data wrangling and quick prototyping are 80% of my day. Pandas turns messy datasets into gold, while NumPy handles the heavy numerical lifting for model inputs.
+     - *Pro Tip*: Use `df.profile_report()` from Pandas Profiling for instant EDA—saves hours on exploratory analysis.
+   - **Jupyter Notebooks / Google Colab**
+     - *Why?* Interactive coding heaven. Colab's free GPUs let me test massive models without firing up my local rig.
+     - *Pro Tip*: Integrate with VS Code's Jupyter extension for a seamless notebook-to-script transition.
+
+## 2. **Deep Learning Frameworks: Where the Magic Happens**
+   - **PyTorch (with Hugging Face Transformers)**
+     - *Why?* PyTorch's dynamic graphs make debugging LLMs a breeze, and Hugging Face is my one-stop shop for pre-trained models like Llama or GPT-J. I've fine-tuned dozens this way.
+     - *Pro Tip*: Leverage `accelerate` from Hugging Face for multi-GPU training—scales effortlessly from my laptop to AWS clusters.
+   - **TensorFlow / Keras (for occasional production tweaks)**
+     - *Why?* When deployment calls, TensorFlow's ecosystem shines for serving models at scale.
+     - *Pro Tip*: Use TensorFlow Lite for edge experiments, like testing lightweight LLMs on mobile during my hikes.
+
+## 3. **Experiment Tracking & Collaboration: No More "It Worked on My Machine"**
+   - **Weights & Biases (WandB)**
+     - *Why?* Tracks every hyperparameter, loss curve, and model artifact. Sharing dashboards with my team? Instant collab magic.
+     - *Pro Tip*: Set up sweeps for automated hyperparameter tuning—I've cut experiment time by 50%.
+   - **MLflow**
+     - *Why?* Open-source alternative for logging and deploying models. Perfect for reproducible research papers.
+     - *Pro Tip*: Integrate with Databricks for enterprise-level runs when my startup partners need it.
+
+## 4. **Cloud & Infrastructure: Scaling Without the Sweat**
+   - **AWS SageMaker / Google Cloud AI Platform**
+     - *Why?* End-to-end ML pipelines. SageMaker Studio notebooks feel like Jupyter on steroids, with built-in spot instances for cost savings.
+     - *Pro Tip*: Use SageMaker JumpStart for one-click LLM fine-tuning—deployed a custom model in under 30 minutes last week.
+   - **Docker & Kubernetes**
+     - *Why?* Containerization ensures my models run anywhere. K8s orchestrates deployments for production APIs.
+     - *Pro Tip*: Pair with Helm charts for quick LLM inference servers.
+
+## 5. **Version Control & Productivity Boost

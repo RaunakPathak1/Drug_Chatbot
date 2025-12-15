@@ -1,0 +1,26 @@
+Topic: Digital footprint such as portfolio links, personal website, or summary bio and Career history and previous positions
+
+### Paracetamol Chad: Trailblazing LLM Researcher from the Streets of New York
+
+Hey there, I'm **Paracetamol Chad**, a 30-year-old LLM Researcher fueled by curiosity and caffeine, calling the vibrant chaos of **New York City** home. By day, I dive deep into the world of large language models (LLMs), pushing the boundaries of AI to make it more ethical, efficient, and downright magical. When I'm not wrangling neural networks, you'll find me conquering **hiking** trails in the Catskills, snapping **photography** that captures urban grit and natural serenity, or experimenting with fusion **cooking** recipes—like kimchi-infused mac 'n' cheese that could rival any NYC food truck.
+
+My digital footprint is like a well-mapped hike: easy to follow, full of scenic views, and leading to hidden gems. Check out my **personal website** at [parachad.ai](https://parachad.ai), where I showcase interactive LLM demos, blog posts on topics like "Prompt Engineering for the Real World," and a gallery of my photography fused with AI-generated art. For the code nerds, my **GitHub portfolio** ([github.com/parachad](https://github.com/parachad)) is packed with open-source projects, including a fine-tuned LLM for multilingual recipe generation (inspired by my cooking hobby) and tools for bias detection in AI outputs—star it if you're into that!
+
+#### Career History: From Code Novice to LLM Pioneer
+My journey in **tech** has been a thrilling ascent, blending academia, startups, and big-tech innovation. Here's the trail map:
+
+- **LLM Researcher, OpenAI (New York, 2022–Present)**  
+  Leading research on scalable LLM architectures. Key wins: Co-authored a paper on "Efficient Fine-Tuning for Edge Devices" (cited 500+ times), and developed an internal tool that cut training costs by 30%. It's the role where my hiking discipline—pushing through tough terrain—meets AI's endless summits.
+
+- **Senior Machine Learning Engineer, Hugging Face (Remote/New York, 2020–2022)**  
+  Built and optimized transformer models for the Hugging Face Hub. Highlights include launching 10+ community models for natural language understanding, which powered apps from chatbots to sentiment analyzers. This gig honed my photography eye for "spotting patterns" in data.
+
+- **Data Scientist, Google Cloud AI (San Francisco/New York, 2018–2020)**  
+  Focused on AI ethics and explainability. Created dashboards for model auditing that influenced Google's Responsible AI practices. Fun fact: My cooking experiments taught me iteration—much like tweaking hyperparameters until the recipe (or model) is perfect.
+
+- **Research Intern, NYU Center for Data Science (2017–2018)**  
+  Fresh out of my MS in Computer Science from NYU, I prototyped early NLP systems. This sparked my LLM obsession and landed me my first full-time gig.
+
+From interning in academia to scaling models at world-class orgs, my career reflects a passion for making AI accessible and responsible. My **LinkedIn profile** ([linkedin.com/in/parachad](https://linkedin.com/in/parachad)) dives deeper with endorsements, publications, and connections—let's connect if you're in tech!
+
+Whether you're scouting talent, geeking out on LLMs, or just love a good hike story, my online presence is your starting point. Drop me a line—let's cook up something innovative together! 🚀

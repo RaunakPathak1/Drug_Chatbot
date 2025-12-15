@@ -1,0 +1,41 @@
+Topic: Publications, patents, or conference contributions
+
+# Insulin Lanadelray's Publications, Patents, and Conference Contributions
+
+As a Data Engineer in the healthcare industry, I've always believed that robust data systems aren't just backend magic—they're the lifeblood of better patient outcomes, faster drug discoveries, and smarter public health strategies. At 27, I've already carved out a niche blending scalable engineering with ethical data practices, contributing to publications, a patent, and key conference talks. Here's a spotlight on my work, from peer-reviewed papers to stage presentations, all aimed at making healthcare data work harder for everyone.
+
+## Key Publications
+I've authored or co-authored three impactful papers, focusing on privacy-preserving pipelines and AI-driven analytics in healthcare. These have been cited over 150 times collectively, influencing tools used in NHS digital initiatives.
+
+1. **"Scalable Federated Learning Pipelines for Genomic Data in Multi-Site Hospitals"**  
+   *Journal of Biomedical Informatics (2023)*  
+   Co-authored with Dr. Elena Vasquez (UCL) and team.  
+   We tackled the challenge of training AI models on sensitive genomic data without centralizing it—think GDPR compliance meets real-time insights. Our Apache Spark-based pipeline reduced training time by 40% while boosting model accuracy to 92%. This work has been pivotal for collaborative cancer research across London hospitals. [DOI: 10.1016/j.jbi.2023.104123]
+
+2. **"Real-Time Anomaly Detection in Wearable Health Data Streams Using Kafka and MLflow"**  
+   *IEEE Transactions on Big Data (2022)*  
+   Solo first-author paper.  
+   Inspired by my cycling hobby (nothing motivates like tracking heart rate mid-ride!), I engineered a system that flags irregularities in IoT device data from wearables. Deployed in a pilot for diabetic patients, it cut false alerts by 65%, potentially preventing emergencies. Perfect for the NHS's push toward predictive care.
+
+3. **"Optimizing ETL Processes for Longitudinal EHR Data in Resource-Constrained Environments"**  
+   *Health Data Science Conference Proceedings (2021)*  
+   This early-career gem addressed data silos in underfunded clinics, using Airflow and Delta Lake to handle petabyte-scale electronic health records (EHRs). It slashed processing costs by 30%—a game-changer for global health equity.
+
+## Patents
+Innovation doesn't stop at papers—I've secured one US patent (pending in EU), turning research into protectable tech:
+
+- **US Patent No. 11,567,890: "Privacy-Enhanced Data Anonymization Engine for Healthcare Analytics Platforms" (Granted 2024)**  
+  Invented during my time at a London-based healthtech startup. This engine uses differential privacy techniques integrated with dbt and Snowflake to anonymize data on-the-fly, ensuring compliance while enabling advanced analytics. It's now licensed to two telemedicine firms, safeguarding millions of patient records annually. Filing this while pedaling through Hyde Park on my bike was my idea of work-life balance!
+
+## Conference Contributions
+I've presented at five major events, turning complex engineering into accessible stories for 500+ attendees. These gigs let me connect my London roots with global audiences—often followed by travel adventures.
+
+1. **Keynote: "Building Resilient Data Lakes for Pandemic Response"**  
+   *HIMSS Europe Conference, London (2024)*  
+   Drew 800 attendees; live demo'd a COVID-era dashboard that processed 1M+ records daily.
+
+2. **Workshop: "From Zero to Hero: Data Engineering for ML in Healthcare"**  
+   *PyData London (2023)*  
+   Hands-on session with 150 participants; shared code repos still downloaded 2K+ times.
+
+3. **

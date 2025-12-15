@@ -1,0 +1,37 @@
+Topic: Technical, functional, and soft skills
+
+# Paracetamol Chad: Mastering the Art of AI Research
+
+Hey there! I'm Paracetamol Chad, a 30-year-old LLM Researcher based in the buzzing tech hub of New York City. By day, I dive deep into the world of large language models, pushing the boundaries of AI to make them smarter, safer, and more efficient. But life isn't just code—it's fueled by epic hikes upstate, capturing golden-hour shots with my camera, and whipping up gourmet meals in my tiny NYC kitchen. These passions don't just recharge me; they sharpen the skills that make me excel in tech. Let's break down my **technical**, **functional**, and **soft skills**—think of this as your insider guide to what powers my research magic.
+
+## Technical Skills: The Code That Builds Tomorrow
+As an LLM Researcher, I'm all about wielding cutting-edge tools to train, fine-tune, and deploy models that rival human cognition. Here's my tech arsenal, battle-tested in real-world projects:
+
+- **Python & ML Frameworks Mastery**: Fluent in Python, with expert-level proficiency in PyTorch and TensorFlow. I've optimized transformer architectures for 10x faster inference on massive datasets—think fine-tuning GPT-like models for domain-specific tasks like medical diagnostics.
+  
+- **Natural Language Processing (NLP)**: Deep expertise in tokenization, embeddings (BERT, RoBERTa), and advanced techniques like RLHF (Reinforcement Learning from Human Feedback). Recently, I built a custom pipeline for multilingual sentiment analysis that handled 50+ languages with 95% accuracy.
+
+- **Data Engineering & Big Data Tools**: Skilled in SQL, Pandas, Dask for data wrangling, and distributed computing with Apache Spark and Ray. I scale experiments across GPU clusters on AWS and GCP, managing petabyte-scale corpora without breaking a sweat.
+
+- **Model Evaluation & Optimization**: Proficient in metrics like BLEU, ROUGE, perplexity, and human eval frameworks (e.g., LMSYS Arena). I use tools like Weights & Biases for experiment tracking and LoRA/PEFT for efficient fine-tuning on resource-constrained setups.
+
+- **Version Control & DevOps**: Git/GitHub workflows, Docker for containerization, and CI/CD with Jenkins. Bonus: I script automation in Bash and Jupyter for reproducible research.
+
+These aren't just buzzwords—I've deployed production-ready LLMs for NYC startups, slashing hallucination rates by 40%.
+
+## Functional Skills: Turning Research into Real Impact
+Technical chops get you started, but functional skills turn ideas into breakthroughs. In the fast-paced LLM field, I focus on the "how" of research and delivery:
+
+- **Experiment Design & Hypothesis Testing**: I craft rigorous A/B tests and ablation studies to isolate variables in model performance. For instance, I led a project dissecting attention mechanisms, resulting in a peer-reviewed paper at NeurIPS.
+
+- **Prompt Engineering & Evaluation**: Master of chain-of-thought prompting, few-shot learning, and adversarial testing. I design benchmarks that expose biases, ensuring ethical AI deployment.
+
+- **Research Documentation & Publishing**: From LaTeX papers to Hugging Face repos, I communicate findings clearly. I've co-authored 5+ publications and maintain an open-source LLM toolkit with 10k+ GitHub stars.
+
+- **Cross-Functional Collaboration**: Bridge research with engineering teams using Agile/Scrum, translating complex math into actionable roadmaps. I've consulted for tech firms on scaling LLMs cost-effectively.
+
+- **Ethical AI & Safety Auditing**: Skilled in red-teaming models for jailbreaks, bias detection (e.g., via Fairlearn), and alignment techniques. Safety first—always.
+
+These skills keep my work practical, from prototyping in a weekend hackathon to enterprise rollouts.
+
+## Soft Skills:

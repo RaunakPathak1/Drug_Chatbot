@@ -1,0 +1,30 @@
+Topic: Tools, software, and technologies regularly used
+
+# My Daily Toolkit: Powering Healthcare Data Magic as a Data Engineer
+
+Hey there! I'm Insulin Lanadelray, a 27-year-old Data Engineer based in the bustling heart of London. By day, I wrangle massive datasets in the healthcare industry—think patient records, clinical trials, and predictive analytics that could save lives. My job? Building robust pipelines that turn raw data into actionable insights, all while keeping things compliant with GDPR and HIPAA. It's like being a digital architect for health tech, and I wouldn't trade it for anything (except maybe a long cycling ride along the Thames on a sunny weekend).
+
+What keeps my workflow humming? A killer stack of tools, software, and technologies that I've honed over years of trial, error, and "aha!" moments. Here's the rundown of what I use *regularly*—with a peek into why they rock for healthcare data engineering. I'll keep it real: no fluff, just the goods.
+
+## **Core Languages & Frameworks: The Backbone**
+- **Python (with Pandas, NumPy, and PySpark)**: My go-to for 80% of my scripting. Pandas for quick data munging, NumPy for heavy numerical lifting, and PySpark when datasets balloon into terabytes (hello, genomic data!). In healthcare, it's perfect for anonymizing PHI while building ML models for disease prediction. Pro tip: Jupyter Notebooks make prototyping feel like reading a choose-your-own-adventure book—seamless for my reading hobby.
+  
+- **SQL (PostgreSQL & BigQuery)**: Querying is my love language. Postgres for our on-prem relational stores (structured patient data shines here), and Google BigQuery for cloud-scale analytics on de-identified EHRs. I once optimized a query that cut runtime from hours to minutes—celebrated with a post-ride coffee.
+
+## **ETL & Orchestration: Keeping Pipelines Flowing**
+- **Apache Airflow**: The conductor of my data symphonies. I DAG everything—ETL jobs pulling from APIs, transforming FHIR-standard HL7 feeds, and loading into warehouses. It's DAG-tastic for scheduling daily compliance checks, and the UI is a dream for debugging midnight failures (yes, they happen).
+  
+- **dbt (data build tool)**: For transformations that are testable and version-controlled. In healthcare, where audits are non-negotiable, dbt's Jinja templating ensures reproducibility. It's like Git for SQL—game-changer.
+
+## **Cloud & Infrastructure: Scalable and Secure**
+- **AWS (S3, Glue, EMR, Lambda)**: London's AWS region is my playground. S3 for cheap, durable storage of imaging datasets; Glue for serverless ETL; EMR for Spark clusters on steroid-sized workloads. Lambda handles event-driven triggers, like real-time alerts for anomalous vitals data. Security? IAM roles and encryption are locked down tighter than my bike during travels.
+  
+- **Docker & Kubernetes (on EKS)**: Containerizing pipelines for portability. Deploy a microservice for cohort analysis? Done in minutes. K8s orchestrates it all, ensuring zero-downtime deploys—crucial when hospitals can't afford hiccups.
+
+## **Collaboration & Viz: Sharing the Insights**
+- **Git/GitHub Actions**: Version control is sacred. Every pipeline lives here, with CI/CD workflows testing for data quality (Great Expectations integration ftw!).
+  
+- **Tableau**: For dashboards that execs actually *use*. Visualizing trends in vaccination uptake or readmission rates? Tableau's interactivity turns dry stats into compelling stories. I export these for stakeholder meetings, then unwind with a travel memoir.
+
+## **Healthcare-Specific Gems**
+- **FHIR Tools (like HAPI

@@ -1,0 +1,19 @@
+Topic: Career history and previous positions
+
+### Career History: Paracetamol Chad's Journey in Tech Innovation
+
+Paracetamol Chad's career in the technology sector is a testament to his passion for pushing the boundaries of artificial intelligence, evolving from hands-on coding to pioneering research in large language models (LLMs). A New York native, he kicked off his professional journey right after earning his Bachelor's in Computer Science from New York University in 2016, where he graduated with honors and a thesis on neural networks that foreshadowed his future expertise.
+
+**Software Developer, StartupForge (New York, NY) – 2016–2018**  
+Chad dove headfirst into the fast-paced world of NYC startups at StartupForge, a fintech disruptor. As a junior developer, he built scalable backend systems using Python and Django, optimizing transaction processing pipelines that handled over 1 million daily queries—slashing latency by 40%. This role honed his problem-solving skills under tight deadlines, much like navigating a challenging hike, and sparked his interest in data-driven decision-making.
+
+**Data Scientist, UrbanData Labs (New York, NY) – 2018–2020**  
+Eager to blend code with analytics, Chad joined UrbanData Labs, where he analyzed urban mobility patterns for city planners. Leveraging tools like TensorFlow and SQL, he developed predictive models that improved traffic forecasting accuracy by 25%, influencing NYC's smart city initiatives. His knack for visualizing complex datasets—honed through his photography hobby—made his presentations a hit, earning him a team lead promotion in his second year.
+
+**Machine Learning Engineer, Nexus AI (Remote/New York, NY) – 2020–2022**  
+The pandemic accelerated Chad's pivot to AI at Nexus AI, a venture-backed firm specializing in natural language processing. He engineered custom NLP pipelines for sentiment analysis in customer service bots, deploying models that boosted response relevance by 35% and served 500K+ users monthly. Collaborating with cross-functional teams, he co-authored two papers on efficient transformer architectures, presented at NeurIPS workshops—solidifying his research credentials amid remote work that he balanced with rooftop cooking sessions for virtual team morale.
+
+**LLM Researcher, Frontier AI Labs (New York, NY) – 2022–Present**  
+Today, at 30, Chad thrives as an LLM Researcher at Frontier AI Labs, a cutting-edge think tank in Manhattan's tech hub. He leads projects on ethical fine-tuning of generative models, optimizing for low-resource languages and reducing hallucinations in enterprise applications. His work has contributed to open-source tools adopted by over 10K developers, and he's currently spearheading a grant-funded initiative on multimodal LLMs integrating vision and text—perfectly aligning his photography eye with computational creativity.
+
+Throughout his ascent, Chad's career reflects a blend of technical depth and innovative flair, always prioritizing impactful, real-world applications. With eight years of progressive experience, he's not just building the future of AI—he's outpacing it.

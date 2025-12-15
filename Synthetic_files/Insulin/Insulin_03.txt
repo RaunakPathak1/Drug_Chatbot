@@ -1,0 +1,16 @@
+Topic: Educational background including degrees, institutions, certifications
+
+### Insulin Lanadelray's Educational Journey: Building a Foundation for Healthcare Data Innovation
+
+Insulin Lanadelray's academic path is a testament to her passion for blending technology with healthcare, fueling her role as a Data Engineer in London's vibrant tech-health scene. Growing up in the multicultural buzz of London, she kicked off her educational adventure at **Westminster City School**, where she excelled in A-Levels in Mathematics, Computer Science, and Biology (AAA grades in 2015). This early trinity of subjects sparked her curiosity about using data to solve real-world health challenges, like optimizing patient care through predictive analytics.
+
+She then pursued a **BSc in Computer Science** at **University College London (UCL)** from 2015 to 2018, graduating with First-Class Honours. At UCL, Insulin thrived in modules on algorithms, machine learning, and database systems, even contributing to a hackathon project that developed an AI tool for early diabetes detection—foreshadowing her healthcare focus. Eager to specialize, she advanced to an **MSc in Data Science and Machine Learning** at **Imperial College London** (2019–2021), earning a Distinction despite the disruptions of the pandemic. Her thesis on "Federated Learning for Privacy-Preserving Healthcare Analytics" not only won departmental acclaim but directly inspired her pivot into healthcare data engineering.
+
+To stay razor-sharp in a fast-evolving field, Insulin has stacked industry-leading certifications:
+
+- **AWS Certified Data Analytics – Specialty** (2022): Mastering big data pipelines on cloud infrastructure.
+- **Google Cloud Professional Data Engineer** (2023): Expertise in ETL processes and scalable data warehouses.
+- **Certified Health Informatics Systems Professional (CHISP)** (2024): Tailored for healthcare, covering HIPAA/GDPR compliance and secure health data management.
+- **Databricks Certified Data Engineer Associate** (2024): For Apache Spark and lakehouse architectures.
+
+This robust blend of degrees from world-class institutions (UCL and Imperial rank among the global top 10 for computer science) and practical certifications has equipped Insulin to architect resilient data systems in healthcare. Today, at 27, she channels this knowledge into transforming raw patient data into actionable insights, all while fueling her adventures on London's cycling paths or devouring sci-fi novels on her travels. Her story? A blueprint for aspiring data pros: curiosity + rigorous training = impact.
